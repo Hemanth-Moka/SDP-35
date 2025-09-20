@@ -5,7 +5,7 @@ import CustomerNavBar from "./customer/CustomerNavBar";
 import ManagerNavBar from "./manager/ManagerNavBar";
 import { AuthProvider, useAuth } from "./contextapi/AuthContext";
 import Footer from "./main/Footer";
-// import Movies from "./manager/AddMovie";
+// import Movies from "./manager/AddMovie"; 
 
 function AppContent() 
 {
